@@ -1,4 +1,0 @@
----,Tag,Attack,Block,Dash,Feint,Jump
-NewRow,"Default","Gamepad_RightTriggerAxis","Gamepad_LeftTriggerAxis","Gamepad_FaceButton_Left","Gamepad_FaceButton_Right","Gamepad_FaceButton_Bottom"
-NewRow_0,"EmoKermitSpecials","Gamepad_RightTriggerAxis","Gamepad_LeftTriggerAxis","Gamepad_FaceButton_Bottom","Gamepad_FaceButton_Right","Gamepad_FaceButton_Left"
-NewRow_1,"Test","Gamepad_FaceButton_Bottom","Gamepad_FaceButton_Left","Gamepad_RightShoulder","Gamepad_LeftShoulder","Gamepad_LeftTriggerAxis"
